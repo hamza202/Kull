@@ -52,118 +52,7 @@
 </head>
 <body>
 <div id="page-wrapper">
-    <header id="header" class="navbar-static-top">
-
-        <div class="main-header">
-
-            <a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">
-                Mobile Menu Toggle
-            </a>
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-2 col-xs-6">
-                        <h1 class="logo navbar-brand">
-                            <a href="#" title="">
-                                <img src="images/logo.png" alt=""/>
-                            </a>
-                        </h1>
-                    </div>
-                    <div class="col-sm-9">
-                        <nav id="main-menu" role="navigation">
-                            <ul class="menu">
-                                <li class="menu-item-has-children">
-                                    <a href="#">O nás</a>
-
-                                </li>
-                                <li class="menu-item-has-children">
-                                    <a href="#">Činnosť firmy</a>
-                                </li>
-                                <li class="menu-item-has-children">
-                                    <a href="#">Referencie</a>
-                                    <ul>
-                                        <li><a href="#">Referencie 1</a></li>
-                                        <li><a href="#">Referencie 2</a></li>
-                                        <li><a href="#">Referencie 3</a></li>
-                                        <li><a href="#">Referencie 4</a></li>
-                                        <li><a href="#">Referencie 5</a></li>
-
-
-                                    </ul>
-                                </li>
-                                <li class="menu-item-has-children">
-                                    <a href="#">Postavíme pre vás</a>
-                                </li>
-                                <li class="menu-item-has-children">
-                                    <a href="#"> Kontakt </a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-
-                </div>
-
-
-            </div>
-
-            <nav id="mobile-menu-01" class="mobile-menu collapse">
-                <ul id="mobile-primary-menu" class="menu">
-                    <li class="menu-item-has-children">
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="hotel-index.html">O nás </a>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Činnosť firmy</a>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Referencie</a>
-                        <ul>
-                            <li><a href="#">Referencie 1</a></li>
-                            <li><a href="#">Referencie 2</a></li>
-                            <li><a href="#">Referencie 3</a></li>
-                            <li><a href="#">Referencie 4</a></li>
-                            <li><a href="#">Referencie 5</a></li>
-
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Postavíme pre vás</a>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#"> Kontakt </a>
-                    </li>
-                </ul>
-
-                <ul class="mobile-topnav container">
-                    <li><a href="#">MY ACCOUNT</a></li>
-                    <li class="ribbon language menu-color-skin">
-                        <a href="#" data-toggle="collapse">ENGLISH</a>
-                        <ul class="menu mini">
-                            <li><a href="#" title="Dansk">Dansk</a></li>
-                            <li><a href="#" title="Deutsch">Deutsch</a></li>
-                            <li class="active"><a href="#" title="English">English</a></li>
-                            <li><a href="#" title="Español">Español</a></li>
-                            <li><a href="#" title="Français">Français</a></li>
-                            <li><a href="#" title="Italiano">Italiano</a></li>
-                            <li><a href="#" title="Magyar">Magyar</a></li>
-                            <li><a href="#" title="Nederlands">Nederlands</a></li>
-                            <li><a href="#" title="Norsk">Norsk</a></li>
-                            <li><a href="#" title="Polski">Polski</a></li>
-                            <li><a href="#" title="Português">Português</a></li>
-                            <li><a href="#" title="Suomi">Suomi</a></li>
-                            <li><a href="#" title="Svenska">Svenska</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="#travelo-login" class="soap-popupbox">LOGIN</a></li>
-                    <li><a href="#travelo-signup" class="soap-popupbox">SIGNUP</a></li>
-                </ul>
-
-            </nav>
-        </div>
-
-    </header>
-
+<?php include ('header.php')?>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <!-- Wrapper for slides -->
@@ -395,50 +284,7 @@
         </div>
     </section>
     <!--Start footer-->
-    <footer id="footer">
-        <div class="footer-wrapper">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-sm-2"></div>
-                    <div class="col-sm-8">
-<br><br><br>
-                        <p class="white-color">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem cum dicta
-                            dolorem
-                        </p>
-                        <ul class="list-inline footer-ul">
-                            <li class="white-color"><h3 class="white-color"><span class="white-color bold">Phone:</span>
-                                0912 345 678 &nbsp; &nbsp; &nbsp; <span class="bold"> Email:</span> <a
-                                        href="mailto:Info@info.com">Info@info.com</a></h3></li>
-                        </ul>
-
-                    </div>
-                    <div class="col-sm-2">
-                        <div class="footer-logo">
-                        <a href="#" title="">
-                            <img style="height: 150px; width: 150px;" src="images/logo2.png" alt=""/>
-                        </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="bottom gray-area">
-            <div class="container">
-                <!--<div class="logo pull-left">-->
-                <!--<a href="index.html" title="">-->
-                <!--<img src="images/logo.jpg" alt=" " />-->
-                <!--</a>-->
-                <!--</div>-->
-                <div class="pull-right">
-                    <a id="back-to-top" href="#" class="animated" data-animation-type="bounce"><i
-                            class="fa fa-arrow-up circle"></i></a>
-                </div>
-                <div class="copyright pull-right">
-                    <p>&copy; 2018 Kull</p>
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php include ('footer.php')?>
 </div>
 
 <!--left Side-->
@@ -447,14 +293,7 @@
             <img src="images/logo2.png" alt=""/>
         </a>
 </div>
-<div id="rightcolumn">
 
-
-    <div class="custom">
-        <p><a href="/#">Napíšte nam</a></p>
-    </div>
-
-</div>
 <!--End left side-->
 <!-- Javascript -->
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
