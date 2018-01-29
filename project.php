@@ -3,17 +3,12 @@
 <!--[if IE 9]>          <html class="ie ie9"> <![endif]-->
 <!--[if gt IE 9]><!-->  <html> <!--<![endif]-->
 
-<!-- Mirrored from www.soaptheme.net/html/travelo/pages-photogallery-4column.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2018 12:01:08 GMT -->
 <head>
     <!-- Page Title -->
-    <title>Travelo - Travel, Tour Booking HTML5 Template</title>
+    <title>Kull</title>
     
     <!-- Meta Tags -->
     <meta charset="utf-8">
-    <meta name="keywords" content="HTML5 Template" />
-    <meta name="description" content="Travelo - Travel, Tour Booking HTML5 Template">
-    <meta name="author" content="SoapTheme">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     
@@ -83,7 +78,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/1.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Family Beach Tour<small>Island, Beach</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -93,7 +88,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/2.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">La Degue Island<small>Island, Beach</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -103,7 +98,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/3.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">New York<small>People, Countries</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -113,7 +108,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/4.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Girl On Beach<small>Enjoy, Sea</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -123,7 +118,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/5.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Spain<small>People, Countries</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -133,7 +128,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/6.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Beach Rest Place<small>Beach, Island</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -143,7 +138,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/7.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Moab, UT<small>Couple, Adventure</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -153,7 +148,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/8.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Austrilia<small>People, Countries</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -163,7 +158,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/9.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Cool Horizon<small>island, Beach</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -173,7 +168,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/10.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Beach Area<small>Beach</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -183,7 +178,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/11.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Beauty of Venice<small>People, Countries</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -193,7 +188,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/12.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Near Beach<small>Kids, Sea</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -203,7 +198,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/13.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Dinner on Beach<small>Couple, beach</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -213,7 +208,7 @@
                                     <a class="hover-effect" title="" href="#"><img width="270" height="161" alt="" src="images/project/14.png"></a>
                                 </figure>
                                 <div class="details">
-                                    <h4 class="box-title">Cape Town<small>Island</small></h4>
+                                    <h4 class="box-title">Test text<small>Test text</small></h4>
                                 </div>
                             </article>
                         </div>
@@ -253,14 +248,13 @@
     <script type="text/javascript" src="js/waypoints.min.js"></script>
 
     <!-- Isotope -->
-    <script type="text/javascript" src="../../../192.168.1.1/wizard_new/index9250.html"></script>
+    <script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
 
     <!-- load page Javascript -->
     <script type="text/javascript" src="js/theme-scripts.js"></script>
-    <script type="text/javascript" src="js/scripts.js"></script>
+<!--    <script type="text/javascript" src="js/scripts.js"></script>-->
     
 </body>
 
-<!-- Mirrored from www.soaptheme.net/html/travelo/pages-photogallery-4column.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2018 12:01:15 GMT -->
 </html>
 

@@ -204,16 +204,40 @@ p.text-left{
     width: 100%;
     height: 13vw;
 }
+.tour-packages .box img{
+    width: 100%;
+    height: 15vw;
+}
+.tour-packages .box .caption-title{
+    font-size: 16px;
+}
+.image-box.style6 .details{
+    padding: 40px 30px;
+}
 /*End project page*/
 /*Start media query*/
 @media only screen and (max-width : 979px) {
     .isotope a.hover-effect img {
         height: 22vw;
     }
+    .tour-packages .box img{
+        width: 100%;
+        height: 22vw;
+    }
+}
+@media only screen and (max-width : 767px) {
+    .tour-packages .box img{
+        width: 100%;
+        height: 35vw;
+    }
 }
 
 @media only screen and (max-width : 480px) {
     .isotope a.hover-effect img {
+        height: 50vw;
+    }
+    .tour-packages .box img{
+        width: 100%;
         height: 50vw;
     }
 }

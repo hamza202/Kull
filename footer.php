@@ -18,7 +18,7 @@
                 <div class="col-sm-2">
                     <div class="footer-logo">
                         <a href="#" title="">
-                            <img style="height: 150px; width: 150px;" src="images/logo2.png" alt=""/>
+                            <img class="img-responsive" style="max-height: 150px; max-width: 150px;" src="images/logo2.png" alt=""/>
                         </a>
                     </div>
                 </div>

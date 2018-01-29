@@ -19,23 +19,23 @@
                     <nav id="main-menu" role="navigation">
                         <ul class="menu">
                             <li class="menu-item-has-children">
-                                <a href="#">O nás</a>
+                                <a href="index.php">O nás</a>
 
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="project.php">Činnosť firmy</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="#">Referencie</a>
-                                <ul>
-                                    <li><a href="#">Referencie 1</a></li>
-                                    <li><a href="#">Referencie 2</a></li>
-                                    <li><a href="#">Referencie 3</a></li>
-                                    <li><a href="#">Referencie 4</a></li>
-                                    <li><a href="#">Referencie 5</a></li>
-
-
-                                </ul>
+                                <a href="referencie.php">Referencie</a>
+<!--                                <ul>-->
+<!--                                    <li><a href="#">Referencie 1</a></li>-->
+<!--                                    <li><a href="#">Referencie 2</a></li>-->
+<!--                                    <li><a href="#">Referencie 3</a></li>-->
+<!--                                    <li><a href="#">Referencie 4</a></li>-->
+<!--                                    <li><a href="#">Referencie 5</a></li>-->
+<!---->
+<!---->
+<!--                                </ul>-->
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="#">Postavíme pre vás</a>
