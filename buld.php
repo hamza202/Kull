@@ -50,11 +50,11 @@
         <div class="page-title-container">
             <div class="container">
                 <div class="page-title pull-left">
-                    <h2 class="entry-title">Referencie</h2>
+                    <h2 class="entry-title">Postavíme pre vás</h2>
                 </div>
                 <ul class="breadcrumbs pull-right">
                     <li><a href="#">O nás</a></li>
-                    <li class="active">Referencie</li>
+                    <li class="active">Postavíme pre vás</li>
                 </ul>
             </div>
         </div>
@@ -67,7 +67,7 @@
                             <a href="#" title="" class="middle-block"><img class="middle-item" src="images/buld/1.jpg" alt="" width="476" height="318" /></a>
                         </figure>
                         <div class="details col-md-offset-5">
-                            <h4 class="box-title">Who We Are?</h4>
+                            <h4 class="box-title text-capitalize">what we build?</h4>
                             <p>Vivamus a mauris vel nunc tristique volutpat. Aenean eu faucibus enim. Aenean blandit arcu lectus, in cursus elit porttitor non. Curabitur risus eros, mattis vitae nisl consequat, tincidunt commodo purus. Maecenas eu risus ac risus tempus iaculis. Duis cursus lectus sed dui imperdiet, id pharetra nunc ullamcorper. Donec luctus blandit metus, sed ultrices ipsum facilisis sit amet. Morbi congue ligula sit amet urna tincidunt.</p>
                         </div>
                     </article>
@@ -76,7 +76,7 @@
                             <a href="#" title=""><img class="middle-item" src="images/buld/2.jpg" alt="" width="476" height="318" /></a>
                         </figure>
                         <div class="details col-md-7">
-                            <h4 class="box-title">What We Do?</h4>
+                            <h4 class="box-title text-capitalize">what we build?</h4>
                             <p>Vivamus a mauris vel nunc tristique volutpat. Aenean eu faucibus enim. Aenean blandit arcu lectus, in cursus elit porttitor non. Curabitur risus eros, mattis vitae nisl consequat, tincidunt commodo purus. Maecenas eu risus ac risus tempus iaculis. Duis cursus lectus sed dui imperdiet, id pharetra nunc ullamcorper. Donec luctus blandit metus, sed ultrices ipsum facilisis sit amet. Morbi congue ligula sit amet urna tincidunt.</p>
                         </div>
                     </article>
@@ -85,7 +85,7 @@
                             <a href="#" title="" class="middle-block"><img class="middle-item" src="images/buld/3.jpg" alt="" width="476" height="318" /></a>
                         </figure>
                         <div class="details col-md-offset-5">
-                            <h4 class="box-title">How Travelo Work?</h4>
+                            <h4 class="box-title text-capitalize">what we build?</h4>
                             <p>Vivamus a mauris vel nunc tristique volutpat. Aenean eu faucibus enim. Aenean blandit arcu lectus, in cursus elit porttitor non. Curabitur risus eros, mattis vitae nisl consequat, tincidunt commodo purus. Maecenas eu risus ac risus tempus iaculis. Duis cursus lectus sed dui imperdiet, id pharetra nunc ullamcorper. Donec luctus blandit metus, sed ultrices ipsum facilisis sit amet. Morbi congue ligula sit amet urna tincidunt.</p>
                         </div>
                     </article>
@@ -94,7 +94,7 @@
                             <a href="#" title=""><img class="middle-item" src="images/buld/4.jpg" alt="" width="476" height="318" /></a>
                         </figure>
                         <div class="details col-md-7">
-                            <h4 class="box-title">What We Do?</h4>
+                            <h4 class="box-title text-capitalize">what we build?</h4>
                             <p>Vivamus a mauris vel nunc tristique volutpat. Aenean eu faucibus enim. Aenean blandit arcu lectus, in cursus elit porttitor non. Curabitur risus eros, mattis vitae nisl consequat, tincidunt commodo purus. Maecenas eu risus ac risus tempus iaculis. Duis cursus lectus sed dui imperdiet, id pharetra nunc ullamcorper. Donec luctus blandit metus, sed ultrices ipsum facilisis sit amet. Morbi congue ligula sit amet urna tincidunt.</p>
                         </div>
                     </article>

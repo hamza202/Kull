@@ -213,6 +213,8 @@ p.text-left{
 }
 .image-box.style6 .details{
     padding: 40px 30px;
+
+    min-height: 250px;
 }
 /*End project page*/
 /*Start media query*/
