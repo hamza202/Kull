@@ -216,6 +216,39 @@ p.text-left{
 
     min-height: 250px;
 }
+.icon-box.style5 > i{
+    background: #0a5f9d;
+}
+button, input[type="button"].button{
+    background: #0a5f9d;
+}
+.pagination > li.active > a, .pagination > li.active > span {
+    background: #0a5f9d !important;
+}
+.pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > span:hover, .pagination > li > span:focus{
+    background: #0a5f9d;
+}
+.pagination > li.first > a:hover, .pagination > li.prev > a:hover, .pagination > li.next > a:hover, .pagination > li.last > a:hover{
+    background: #0a5f9d;
+}
+.pagination > li.first > a, .pagination > li.prev > a, .pagination > li.next > a, .pagination > li.last > a{
+    background: #0a5f9d;
+}
+.gallery-filter .button.active {
+    background: #0a5f9d;
+}
+a.button:hover {
+    background: #0a5f9d;
+}
+.iso-item .box figure p{
+    padding: 15px 50px;
+    text-align: center;
+
+}
+h4.box-title{
+    padding-top: 15px;
+}
+
 /*End project page*/
 /*Start media query*/
 @media only screen and (max-width : 979px) {
@@ -231,6 +264,9 @@ p.text-left{
     .tour-packages .box img{
         width: 100%;
         height: 35vw;
+    }
+    .iso-item .box figure p{
+        padding: 15px;
     }
 }
 
